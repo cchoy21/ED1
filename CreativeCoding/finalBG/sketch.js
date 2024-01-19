@@ -3,7 +3,7 @@
     let gif;
 
     function preload (){
-    gif = loadtiImage ('assets/Giftransparent.gif');
+    gif = loadImage ('assets/Giftransparent.gif');
     }
 
 function setup() {
