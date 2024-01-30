@@ -1,0 +1,65 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%; 
+  overflow: hidden;
+  font-family: 'Courier Prime', monospace;
+  background-color: rgb(191, 148, 228);
+  font-family: 'Edu SA Beginner', cursive;
+font-family: 'Roboto', sans-serif;
+}
+
+canvas {
+  display: block;
+  z-index: -1;
+  width:100%;
+}
+
+img {
+  border: 5px solid #000;
+}
+
+h1{
+  color: black;
+     position: absolute;
+     left: 50%;
+     transform: translateX(-50%) translateY(-50%);
+     text-align: center;
+     top: 1vw;
+     display: inline; background: rgb(191, 148, 228);
+     font-size:3vw;
+}
+
+h3{
+color: black;
+display: inline; background: rgb(191, 148, 228);
+font-size:2vw;
+}
+
+p{
+    position: absolute;
+    font-size: 0.875em;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    text-align:center;
+    top: 4vw;
+    display: inline; background: rgb(191, 148, 228);
+    font-size:1.5vw;
+}
+
+table{
+  position: absolute;
+  z-index: 1;
+  width:100%;
+  top: 5.5vw;
+}
+
+td {
+    width: 25vw;
+    height: 25vw;
+    vertical-align: baseline;
+    padding-top:10px;
+    text-align:center;
+}
+
