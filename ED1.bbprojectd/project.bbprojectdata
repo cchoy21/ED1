@@ -4,11 +4,11 @@
 <dict>
 	<key>HierarchyData</key>
 	<array>
-		<string>66492969-9EEC-4FEE-95B6-00ED0C596879</string>
+		<string>4BD77567-8FC3-4343-BF3E-CB26D3C9C417</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
-		<key>66492969-9EEC-4FEE-95B6-00ED0C596879</key>
+		<key>4BD77567-8FC3-4343-BF3E-CB26D3C9C417</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
@@ -53,6 +53,51 @@
 			<string>ED1</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
+		</dict>
+		<key>D5DD9363-66F3-4DC7-B5DA-1108B01BDD27</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va7gCAAAAAAQQMAAAAOvmS8Tma+RwiU5r+TyP298M
+				5cwRPqQ7YeodvoDff/SatAEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAHAAAAAQEAAGRlZmF1bHQABwAA
+				AAEBAABEZXNrdG9wAAsAAAABAQAAR2lyYWZmZS5wbmcA
+				EAAAAAEGAAAQAAAAIAAAADAAAABAAAAACAAAAAQDAACE
+				XAAAAAAAAAgAAAAEAwAAdHcEAAAAAAAIAAAABAMAAHl3
+				BAAAAAAACAAAAAQDAACtj3IHAAAAABAAAAABBgAAbAAA
+				AHwAAACMAAAAnAAAAAgAAAAABAAAQcW07d9TrD4YAAAA
+				AQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAE
+				AwAAAgAAAAAAAAAEAAAAAwMAAPYBAAAIAAAAAQkAAGZp
+				bGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMA
+				AAAAhxE5AAAACAAAAAAEAABBxT0uhwAAACQAAAABAQAA
+				OTg0MkNDNDctRDA0QS00OThFLUE3M0UtMjFFMzY5QUQ4
+				NkVFGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAA
+				AAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAA
+				AAAAAAAQAAAABBAAAFQAAAAAAAAABRAAAKwAAAAAAAAA
+				EBAAANQAAAAAAAAAQBAAAMQAAAAAAAAAAiAAAKABAAAA
+				AAAABSAAABABAAAAAAAAECAAACABAAAAAAAAESAAAFQB
+				AAAAAAAAEiAAADQBAAAAAAAAEyAAAEQBAAAAAAAAICAA
+				AIABAAAAAAAAMCAAAKwBAAAAAAAAAcAAAPQAAAAAAAAA
+				EcAAACAAAAAAAAAAEsAAAAQBAAAAAAAAENAAAAQAAAAA
+				AAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/default/Desktop/Giraffe.png</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>../../../Desktop/Giraffe.png</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>Giraffe.png</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
 		</dict>
 	</dict>
 	<key>com.barebones.DocumentFormatVersion</key>
