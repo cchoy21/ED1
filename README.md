@@ -1,1 +1,1 @@
-https://github.com/cchoy21/ED1
+https://cchoy21.github.io/ED1
